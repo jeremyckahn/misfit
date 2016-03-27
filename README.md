@@ -1,5 +1,7 @@
 # Misfit
 
+![Demo](./demo.gif)
+
 Misfit provides a command line-based UI for performing common npm tasks.  Currently, its only feature is listing the [npm scripts](https://docs.npmjs.com/cli/run-script) for the current working directory, from which you can can select and run the scripts.
 
 I started this project so that I wouldn't have to remember script names for different projects and could just select them from a list.  More features may be added in the future.
