@@ -17,6 +17,10 @@ cd some/project/root
 misfit
 ````
 
+## Supported platforms
+
+Misfit was developed on OS X, but it'll probably also work on Linux.  Windows has not been tested, but I'm happy to accept a Pull Request to support it.
+
 Misfit currently only searches the current working directory for a `package.json` file.
 
 ## Why "Misfit?"
