@@ -1,0 +1,18 @@
+{
+  "name": "misfit",
+  "version": "0.0.1",
+  "description": "A CLI UI for working with npm",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "npm",
+    "ui"
+  ],
+  "author": "Jeremy Kahn",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "shelljs": "^0.6.0"
+  }
+}
