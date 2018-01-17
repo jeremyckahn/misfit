@@ -4,6 +4,7 @@
   "description": "A CLI UI for working with npm",
   "main": "index.js",
   "scripts": {
+    "sample": "echo 'hello world!'"
   },
   "bin": {
     "misfit": "index.js"

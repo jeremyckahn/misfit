@@ -19,9 +19,11 @@ cd some/project/root
 misfit
 ````
 
+You can also hit the "C" key before selecting a command to copy it to your clipboard upon selecting it.  This is handy for later pasting back into your BASH prompt so that it can be added to your BASH history.
+
 ## Supported platforms
 
-Misfit was developed on OS X, but it'll probably also work on Linux.  Windows has not been tested, but I'm happy to accept a Pull Request to support it.
+Misfit was developed on OS X.  If you'd like it to work on another OS, please submit a PR!
 
 Misfit currently only searches the current working directory for a `package.json` file.
 
