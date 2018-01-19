@@ -2,9 +2,9 @@
 
 ![Demo](./demo.gif)
 
-Misfit provides a command line-based UI for performing common npm tasks.  Currently, its only feature is listing the [npm scripts](https://docs.npmjs.com/cli/run-script) for the current working directory, from which you can can select and run the scripts.
+Misfit provides a command line-based UI for running npm scripts.
 
-I started this project so that I wouldn't have to remember script names for different projects and could just select them from a list.  More features may be added in the future.
+I started this project so that I wouldn't have to remember script names for different projects and could just select them from a list.
 
 ## Installation
 
@@ -19,7 +19,7 @@ cd some/project/root
 misfit
 ````
 
-You can also hit the "C" key before selecting a command to copy it to your clipboard upon selecting it.  This is handy for later pasting back into your BASH prompt so that it can be added to your BASH history.
+You can also hit the "C" key to copy the highlighted command to your clipboard.
 
 ## Supported platforms
 
